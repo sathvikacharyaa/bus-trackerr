@@ -14,3 +14,7 @@
 ## Intended use
 
 This project is meant for students and regular commuters who rely on this specific bus and want a quick way to check typical timings and get a rough idea of where the bus should be along its route on any given day.
+
+## 🔗 Live Website
+
+👉 **[Visit the Website](https://bus-trackerr.netlify.app/)**

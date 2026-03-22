@@ -17,4 +17,4 @@ This project is meant for students and regular commuters who rely on this specif
 
 ## 🔗 Live Website
 
-👉 **[Visit the Website](https://bus-trackerr.netlify.app/)**
+👉 **[Visit the Website](https://bustrackerr.vercel.app/)**

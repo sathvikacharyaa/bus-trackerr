@@ -2,7 +2,7 @@
 
 ## About the project
 
-- Tracks a regular Shivamogga → Manipal → Mangalore super express bus used by students and daily commuters.[web:9]
+- Tracks a regular Shivamogga → Manipal → Mangalore super express bus used by students and daily commuters.
 - Focuses on MIT/Manipal users boarding toward Udupi and Mangalore.
 - Covers the major route sequence: Shivamogga, Thirthahalli, Agumbe, Hebri, Perdoor, Hiriyadka, MIT/Manipal, Udupi, and Mangalore.
 - Uses day-of-week patterns to estimate when the bus should depart Manipal and reach Udupi and Mangalore.
